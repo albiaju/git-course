@@ -1,2 +1,0 @@
-username=albi
-password=12345
